@@ -9,7 +9,7 @@
 # Exit on error, undefined variable, or failure in a pipeline.
 set -euo pipefail
 
-REPO_URL="https://github.com/bjcoleman/voting-proxy.git"
+REPO_URL="https://github.com/RileyJTrigo/voting-proxy.git"
 
 APP_DIR=/home/ec2-user/voting-proxy
 
